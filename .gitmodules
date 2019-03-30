@@ -1,4 +1,4 @@
 [submodule ".\\gh-pages\\build"]
 	path = .\\gh-pages\\build
 	url = git@github.com:SimplyLinn/OctoPrint-from-thingiverse.git
-	branch = deploy
+	branch = gh-pages
